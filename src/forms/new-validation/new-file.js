@@ -10,7 +10,7 @@ class NewComp extends React.Component {
 
     return (
      <div>
-        Hello
+        Hello!!!!!!!!!!!
      </div>
     )
   }
